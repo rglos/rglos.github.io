@@ -1,0 +1,12 @@
+#
+# This file contains configuration flags to customize the site
+#
+
+# Name of your site (displayed in the header)
+name: Rick Glos
+
+# Short bio or description (displayed in the header)
+description: Software Engineer from Portland, Oregon, USA
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-110865243-1
